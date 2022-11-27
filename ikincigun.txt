@@ -12,7 +12,7 @@ hghfgighfhgisholghfdigidfbgfdbgvdf
 
 git github ucuncu gun ilk deneme
 git github ucuncu gun ikinci deneme 
-
+MASTER BRANCH YENI EKLEME(BURADA EROL BRANCINDEYKEN FARKLI BIR CUMLE VARDI BILEREK BU SATIRA BUNU YAZDIK 
 
 
 
