@@ -12,7 +12,7 @@ git github ucuncu gun ilk deneme
 git github ucuncu gun ikinci deneme 
 MASTER BRANCH YENI EKLEME(BURADA EROL BRANCINDEYKEN FARKLI BIR CUMLE VARDI BILEREK BU SATIRA BUNU YAZDIK 
 git github ucuncu gun EROL BRANCHI ilk deneme 
-
+EROL BRANCH 2 EKLEME
 
 
 
